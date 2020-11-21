@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Movie App 2020
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React JS Rundamentals Course 2020
 
 ## Available Scripts
 
