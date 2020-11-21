@@ -1,0 +1,22 @@
+*Reference URL: https://levelup.gitconnected.com/componentdidmakesense-react-lifecycle-explanation-393dcb19e459
+Overview of the lifecycle
+
+##Mounting: The component is being added to the DOM.
+##Updates: The component receives changes props or state and is called when the component is being re-rendered.
+##Unmounting: The component is being removed from the DOM.
+
+##Mounting
+-constructor()
+-componentWillMount()
+-render()
+-componentDidMount()
+
+##Updating
+-componentWillReceiveProps()
+-shouldComponentUpdate()
+-componentWillUpdate()
+-render()
+-componentDidUpdate()
+
+##Unmounting
+componentWillUnmount()
