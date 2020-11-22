@@ -1,0 +1,13 @@
+.detail {
+    margin: 70px;
+}
+
+.detail .detail__title {
+    margin-bottom: 5px;
+    font-size: 24px;
+    color: gray;
+}
+
+.detail .detail__year, .detail .detail__summary, .detail .detail__genres {
+    color: lightslategray;
+}

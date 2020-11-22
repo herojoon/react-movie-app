@@ -27,3 +27,16 @@ react-movie-app resources
 ##movie api (by.nomad coder)
 https://yts-proxy.now.sh/list_movies.json
 https://yts-proxy.now.sh/movie_details.json?movie_id=10
+
+##add library
+npm install prop-types
+npm install axios
+npm install react-router-dom
+
+##react theory
+JSX
+State
+Props
+Class Components
+Data Fetching
+Routing
